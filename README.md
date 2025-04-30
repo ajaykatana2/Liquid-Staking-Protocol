@@ -85,8 +85,12 @@ The protocol is implemented as a solidity smart contract on Core Chain, utilizin
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+
 Contract Address - 0xD2d4fd308B7eb7cEeA5774450ED5cC73501681e6
 
-<img width="1408" alt="image" src="https://github.com/user-attachments/assets/b4d1784a-c051-401b-a4c8-09428dba068a" />
+
+<img width="1420" alt="image" src="https://github.com/user-attachments/assets/84751346-b806-47fd-befa-2ed7b51a2bd8" />
+
+
 
 
